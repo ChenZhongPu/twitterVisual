@@ -1,0 +1,18 @@
+[
+  {"date":"2012-04-23", "key":"Group1", "value":37},
+  {"date":"2012-04-23", "key":"Group2", "value":12},
+  {"date":"2012-04-23", "key":"Group3", "value":22},
+  {"date":"2012-04-23", "key":"Group4", "value":10},
+  {"date":"2012-04-24", "key":"Group1", "value":22},
+  {"date":"2012-04-24", "key":"Group2", "value":33},
+  {"date":"2012-04-24", "key":"Group3", "value":18},
+  {"date":"2012-04-24", "key":"Group4", "value":17},
+  {"date":"2012-04-25", "key":"Group1", "value":44},
+  {"date":"2012-04-25", "key":"Group2", "value":22},
+  {"date":"2012-04-25", "key":"Group3", "value":10},
+  {"date":"2012-04-25", "key":"Group4", "value":20},
+  {"date":"2012-04-26", "key":"Group1", "value":60},
+  {"date":"2012-04-26", "key":"Group2", "value":54},
+  {"date":"2012-04-26", "key":"Group3", "value":33},
+  {"date":"2012-04-26", "key":"Group4", "value":30}
+]

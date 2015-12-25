@@ -1,0 +1,1201 @@
+date,leadergroup,topic,attention
+2015-01-01,media,Sports,0.2631578947368421
+2015-01-01,media,Tec,0.21052631578947367
+2015-01-01,media,Ecnonomy,0.21052631578947367
+2015-01-01,media,Education,0.3157894736842105
+2015-01-01,grassroots,Sports,0.29411764705882354
+2015-01-01,grassroots,Tec,0.29411764705882354
+2015-01-01,grassroots,Ecnonomy,0.11764705882352941
+2015-01-01,grassroots,Education,0.29411764705882354
+2015-01-01,political figures,Sports,0.09090909090909091
+2015-01-01,political figures,Tec,0.0
+2015-01-01,political figures,Ecnonomy,0.45454545454545453
+2015-01-01,political figures,Education,0.45454545454545453
+2015-01-02,media,Sports,0.25
+2015-01-02,media,Tec,0.125
+2015-01-02,media,Ecnonomy,0.375
+2015-01-02,media,Education,0.25
+2015-01-02,grassroots,Sports,0.3333333333333333
+2015-01-02,grassroots,Tec,0.1111111111111111
+2015-01-02,grassroots,Ecnonomy,0.3333333333333333
+2015-01-02,grassroots,Education,0.2222222222222222
+2015-01-02,political figures,Sports,0.4
+2015-01-02,political figures,Tec,0.2
+2015-01-02,political figures,Ecnonomy,0.2
+2015-01-02,political figures,Education,0.2
+2015-01-03,media,Sports,0.14285714285714285
+2015-01-03,media,Tec,0.0
+2015-01-03,media,Ecnonomy,0.2857142857142857
+2015-01-03,media,Education,0.5714285714285714
+2015-01-03,grassroots,Sports,0.42857142857142855
+2015-01-03,grassroots,Tec,0.2857142857142857
+2015-01-03,grassroots,Ecnonomy,0.0
+2015-01-03,grassroots,Education,0.2857142857142857
+2015-01-03,political figures,Sports,0.38461538461538464
+2015-01-03,political figures,Tec,0.15384615384615385
+2015-01-03,political figures,Ecnonomy,0.3076923076923077
+2015-01-03,political figures,Education,0.15384615384615385
+2015-01-04,media,Sports,0.26666666666666666
+2015-01-04,media,Tec,0.2
+2015-01-04,media,Ecnonomy,0.4
+2015-01-04,media,Education,0.13333333333333333
+2015-01-04,grassroots,Sports,0.25
+2015-01-04,grassroots,Tec,0.25
+2015-01-04,grassroots,Ecnonomy,0.0
+2015-01-04,grassroots,Education,0.5
+2015-01-04,political figures,Sports,0.42857142857142855
+2015-01-04,political figures,Tec,0.07142857142857142
+2015-01-04,political figures,Ecnonomy,0.35714285714285715
+2015-01-04,political figures,Education,0.14285714285714285
+2015-01-05,media,Sports,0.35714285714285715
+2015-01-05,media,Tec,0.2857142857142857
+2015-01-05,media,Ecnonomy,0.21428571428571427
+2015-01-05,media,Education,0.14285714285714285
+2015-01-05,grassroots,Sports,0.2
+2015-01-05,grassroots,Tec,0.6
+2015-01-05,grassroots,Ecnonomy,0.1
+2015-01-05,grassroots,Education,0.1
+2015-01-05,political figures,Sports,0.0
+2015-01-05,political figures,Tec,0.2
+2015-01-05,political figures,Ecnonomy,0.4
+2015-01-05,political figures,Education,0.4
+2015-01-06,media,Sports,0.0
+2015-01-06,media,Tec,0.4
+2015-01-06,media,Ecnonomy,0.4
+2015-01-06,media,Education,0.2
+2015-01-06,grassroots,Sports,0.45454545454545453
+2015-01-06,grassroots,Tec,0.0
+2015-01-06,grassroots,Ecnonomy,0.09090909090909091
+2015-01-06,grassroots,Education,0.45454545454545453
+2015-01-06,political figures,Sports,0.2857142857142857
+2015-01-06,political figures,Tec,0.23809523809523808
+2015-01-06,political figures,Ecnonomy,0.23809523809523808
+2015-01-06,political figures,Education,0.23809523809523808
+2015-01-07,media,Sports,0.07692307692307693
+2015-01-07,media,Tec,0.0
+2015-01-07,media,Ecnonomy,0.46153846153846156
+2015-01-07,media,Education,0.46153846153846156
+2015-01-07,grassroots,Sports,0.21428571428571427
+2015-01-07,grassroots,Tec,0.2857142857142857
+2015-01-07,grassroots,Ecnonomy,0.2857142857142857
+2015-01-07,grassroots,Education,0.21428571428571427
+2015-01-07,political figures,Sports,0.2777777777777778
+2015-01-07,political figures,Tec,0.2777777777777778
+2015-01-07,political figures,Ecnonomy,0.3333333333333333
+2015-01-07,political figures,Education,0.1111111111111111
+2015-01-08,media,Sports,0.2
+2015-01-08,media,Tec,0.5
+2015-01-08,media,Ecnonomy,0.1
+2015-01-08,media,Education,0.2
+2015-01-08,grassroots,Sports,0.18181818181818182
+2015-01-08,grassroots,Tec,0.2727272727272727
+2015-01-08,grassroots,Ecnonomy,0.5454545454545454
+2015-01-08,grassroots,Education,0.0
+2015-01-08,political figures,Sports,0.21428571428571427
+2015-01-08,political figures,Tec,0.35714285714285715
+2015-01-08,political figures,Ecnonomy,0.35714285714285715
+2015-01-08,political figures,Education,0.07142857142857142
+2015-01-09,media,Sports,0.0
+2015-01-09,media,Tec,0.0
+2015-01-09,media,Ecnonomy,0.0
+2015-01-09,media,Education,1.0
+2015-01-09,grassroots,Sports,0.42857142857142855
+2015-01-09,grassroots,Tec,0.42857142857142855
+2015-01-09,grassroots,Ecnonomy,0.0
+2015-01-09,grassroots,Education,0.14285714285714285
+2015-01-09,political figures,Sports,0.4166666666666667
+2015-01-09,political figures,Tec,0.16666666666666666
+2015-01-09,political figures,Ecnonomy,0.3333333333333333
+2015-01-09,political figures,Education,0.08333333333333333
+2015-01-10,media,Sports,0.1
+2015-01-10,media,Tec,0.4
+2015-01-10,media,Ecnonomy,0.5
+2015-01-10,media,Education,0.0
+2015-01-10,grassroots,Sports,0.3333333333333333
+2015-01-10,grassroots,Tec,0.3333333333333333
+2015-01-10,grassroots,Ecnonomy,0.2777777777777778
+2015-01-10,grassroots,Education,0.05555555555555555
+2015-01-10,political figures,Sports,0.07692307692307693
+2015-01-10,political figures,Tec,0.07692307692307693
+2015-01-10,political figures,Ecnonomy,0.38461538461538464
+2015-01-10,political figures,Education,0.46153846153846156
+2015-01-11,media,Sports,0.5
+2015-01-11,media,Tec,0.0
+2015-01-11,media,Ecnonomy,0.2
+2015-01-11,media,Education,0.3
+2015-01-11,grassroots,Sports,0.2727272727272727
+2015-01-11,grassroots,Tec,0.5454545454545454
+2015-01-11,grassroots,Ecnonomy,0.18181818181818182
+2015-01-11,grassroots,Education,0.0
+2015-01-11,political figures,Sports,0.2
+2015-01-11,political figures,Tec,0.26666666666666666
+2015-01-11,political figures,Ecnonomy,0.13333333333333333
+2015-01-11,political figures,Education,0.4
+2015-01-12,media,Sports,0.0
+2015-01-12,media,Tec,0.25
+2015-01-12,media,Ecnonomy,0.75
+2015-01-12,media,Education,0.0
+2015-01-12,grassroots,Sports,0.375
+2015-01-12,grassroots,Tec,0.375
+2015-01-12,grassroots,Ecnonomy,0.125
+2015-01-12,grassroots,Education,0.125
+2015-01-12,political figures,Sports,0.375
+2015-01-12,political figures,Tec,0.125
+2015-01-12,political figures,Ecnonomy,0.125
+2015-01-12,political figures,Education,0.375
+2015-01-13,media,Sports,0.2857142857142857
+2015-01-13,media,Tec,0.23809523809523808
+2015-01-13,media,Ecnonomy,0.19047619047619047
+2015-01-13,media,Education,0.2857142857142857
+2015-01-13,grassroots,Sports,0.2
+2015-01-13,grassroots,Tec,0.2
+2015-01-13,grassroots,Ecnonomy,0.4
+2015-01-13,grassroots,Education,0.2
+2015-01-13,political figures,Sports,0.125
+2015-01-13,political figures,Tec,0.5
+2015-01-13,political figures,Ecnonomy,0.125
+2015-01-13,political figures,Education,0.25
+2015-01-14,media,Sports,0.46153846153846156
+2015-01-14,media,Tec,0.38461538461538464
+2015-01-14,media,Ecnonomy,0.0
+2015-01-14,media,Education,0.15384615384615385
+2015-01-14,grassroots,Sports,0.5555555555555556
+2015-01-14,grassroots,Tec,0.2222222222222222
+2015-01-14,grassroots,Ecnonomy,0.0
+2015-01-14,grassroots,Education,0.2222222222222222
+2015-01-14,political figures,Sports,0.3333333333333333
+2015-01-14,political figures,Tec,0.26666666666666666
+2015-01-14,political figures,Ecnonomy,0.4
+2015-01-14,political figures,Education,0.0
+2015-01-15,media,Sports,0.2727272727272727
+2015-01-15,media,Tec,0.2727272727272727
+2015-01-15,media,Ecnonomy,0.18181818181818182
+2015-01-15,media,Education,0.2727272727272727
+2015-01-15,grassroots,Sports,0.35294117647058826
+2015-01-15,grassroots,Tec,0.17647058823529413
+2015-01-15,grassroots,Ecnonomy,0.35294117647058826
+2015-01-15,grassroots,Education,0.11764705882352941
+2015-01-15,political figures,Sports,0.3333333333333333
+2015-01-15,political figures,Tec,0.5
+2015-01-15,political figures,Ecnonomy,0.16666666666666666
+2015-01-15,political figures,Education,0.0
+2015-01-16,media,Sports,0.08333333333333333
+2015-01-16,media,Tec,0.5
+2015-01-16,media,Ecnonomy,0.08333333333333333
+2015-01-16,media,Education,0.3333333333333333
+2015-01-16,grassroots,Sports,0.18181818181818182
+2015-01-16,grassroots,Tec,0.2727272727272727
+2015-01-16,grassroots,Ecnonomy,0.09090909090909091
+2015-01-16,grassroots,Education,0.45454545454545453
+2015-01-16,political figures,Sports,0.21428571428571427
+2015-01-16,political figures,Tec,0.42857142857142855
+2015-01-16,political figures,Ecnonomy,0.2857142857142857
+2015-01-16,political figures,Education,0.07142857142857142
+2015-01-17,media,Sports,0.3157894736842105
+2015-01-17,media,Tec,0.3157894736842105
+2015-01-17,media,Ecnonomy,0.21052631578947367
+2015-01-17,media,Education,0.15789473684210525
+2015-01-17,grassroots,Sports,0.1111111111111111
+2015-01-17,grassroots,Tec,0.3333333333333333
+2015-01-17,grassroots,Ecnonomy,0.1111111111111111
+2015-01-17,grassroots,Education,0.4444444444444444
+2015-01-17,political figures,Sports,0.0
+2015-01-17,political figures,Tec,0.0
+2015-01-17,political figures,Ecnonomy,0.45454545454545453
+2015-01-17,political figures,Education,0.5454545454545454
+2015-01-18,media,Sports,0.3333333333333333
+2015-01-18,media,Tec,0.16666666666666666
+2015-01-18,media,Ecnonomy,0.16666666666666666
+2015-01-18,media,Education,0.3333333333333333
+2015-01-18,grassroots,Sports,0.125
+2015-01-18,grassroots,Tec,0.25
+2015-01-18,grassroots,Ecnonomy,0.375
+2015-01-18,grassroots,Education,0.25
+2015-01-18,political figures,Sports,0.5
+2015-01-18,political figures,Tec,0.5
+2015-01-18,political figures,Ecnonomy,0.0
+2015-01-18,political figures,Education,0.0
+2015-01-19,media,Sports,0.3125
+2015-01-19,media,Tec,0.1875
+2015-01-19,media,Ecnonomy,0.1875
+2015-01-19,media,Education,0.3125
+2015-01-19,grassroots,Sports,0.125
+2015-01-19,grassroots,Tec,0.25
+2015-01-19,grassroots,Ecnonomy,0.25
+2015-01-19,grassroots,Education,0.375
+2015-01-19,political figures,Sports,0.25
+2015-01-19,political figures,Tec,0.375
+2015-01-19,political figures,Ecnonomy,0.25
+2015-01-19,political figures,Education,0.125
+2015-01-20,media,Sports,0.125
+2015-01-20,media,Tec,0.375
+2015-01-20,media,Ecnonomy,0.375
+2015-01-20,media,Education,0.125
+2015-01-20,grassroots,Sports,0.3125
+2015-01-20,grassroots,Tec,0.1875
+2015-01-20,grassroots,Ecnonomy,0.1875
+2015-01-20,grassroots,Education,0.3125
+2015-01-20,political figures,Sports,0.5454545454545454
+2015-01-20,political figures,Tec,0.2727272727272727
+2015-01-20,political figures,Ecnonomy,0.09090909090909091
+2015-01-20,political figures,Education,0.09090909090909091
+2015-01-21,media,Sports,0.0
+2015-01-21,media,Tec,0.0
+2015-01-21,media,Ecnonomy,1.0
+2015-01-21,media,Education,0.0
+2015-01-21,grassroots,Sports,0.25
+2015-01-21,grassroots,Tec,0.5
+2015-01-21,grassroots,Ecnonomy,0.0
+2015-01-21,grassroots,Education,0.25
+2015-01-21,political figures,Sports,0.14285714285714285
+2015-01-21,political figures,Tec,0.0
+2015-01-21,political figures,Ecnonomy,0.42857142857142855
+2015-01-21,political figures,Education,0.42857142857142855
+2015-01-22,media,Sports,0.5
+2015-01-22,media,Tec,0.2
+2015-01-22,media,Ecnonomy,0.2
+2015-01-22,media,Education,0.1
+2015-01-22,grassroots,Sports,0.3333333333333333
+2015-01-22,grassroots,Tec,0.2
+2015-01-22,grassroots,Ecnonomy,0.4
+2015-01-22,grassroots,Education,0.06666666666666667
+2015-01-22,political figures,Sports,0.5
+2015-01-22,political figures,Tec,0.0
+2015-01-22,political figures,Ecnonomy,0.0
+2015-01-22,political figures,Education,0.5
+2015-01-23,media,Sports,0.0
+2015-01-23,media,Tec,0.5454545454545454
+2015-01-23,media,Ecnonomy,0.45454545454545453
+2015-01-23,media,Education,0.0
+2015-01-23,grassroots,Sports,0.18181818181818182
+2015-01-23,grassroots,Tec,0.09090909090909091
+2015-01-23,grassroots,Ecnonomy,0.45454545454545453
+2015-01-23,grassroots,Education,0.2727272727272727
+2015-01-23,political figures,Sports,0.36363636363636365
+2015-01-23,political figures,Tec,0.0
+2015-01-23,political figures,Ecnonomy,0.2727272727272727
+2015-01-23,political figures,Education,0.36363636363636365
+2015-01-24,media,Sports,0.0
+2015-01-24,media,Tec,0.3333333333333333
+2015-01-24,media,Ecnonomy,0.26666666666666666
+2015-01-24,media,Education,0.4
+2015-01-24,grassroots,Sports,0.38461538461538464
+2015-01-24,grassroots,Tec,0.15384615384615385
+2015-01-24,grassroots,Ecnonomy,0.0
+2015-01-24,grassroots,Education,0.46153846153846156
+2015-01-24,political figures,Sports,0.0
+2015-01-24,political figures,Tec,0.0
+2015-01-24,political figures,Ecnonomy,0.4
+2015-01-24,political figures,Education,0.6
+2015-01-25,media,Sports,0.14285714285714285
+2015-01-25,media,Tec,0.35714285714285715
+2015-01-25,media,Ecnonomy,0.14285714285714285
+2015-01-25,media,Education,0.35714285714285715
+2015-01-25,grassroots,Sports,0.1111111111111111
+2015-01-25,grassroots,Tec,0.5555555555555556
+2015-01-25,grassroots,Ecnonomy,0.1111111111111111
+2015-01-25,grassroots,Education,0.2222222222222222
+2015-01-25,political figures,Sports,0.35294117647058826
+2015-01-25,political figures,Tec,0.29411764705882354
+2015-01-25,political figures,Ecnonomy,0.35294117647058826
+2015-01-25,political figures,Education,0.0
+2015-01-26,media,Sports,0.15384615384615385
+2015-01-26,media,Tec,0.38461538461538464
+2015-01-26,media,Ecnonomy,0.3076923076923077
+2015-01-26,media,Education,0.15384615384615385
+2015-01-26,grassroots,Sports,0.2777777777777778
+2015-01-26,grassroots,Tec,0.3333333333333333
+2015-01-26,grassroots,Ecnonomy,0.2777777777777778
+2015-01-26,grassroots,Education,0.1111111111111111
+2015-01-26,political figures,Sports,0.07142857142857142
+2015-01-26,political figures,Tec,0.21428571428571427
+2015-01-26,political figures,Ecnonomy,0.35714285714285715
+2015-01-26,political figures,Education,0.35714285714285715
+2015-01-27,media,Sports,0.2222222222222222
+2015-01-27,media,Tec,0.4444444444444444
+2015-01-27,media,Ecnonomy,0.2222222222222222
+2015-01-27,media,Education,0.1111111111111111
+2015-01-27,grassroots,Sports,0.23076923076923078
+2015-01-27,grassroots,Tec,0.23076923076923078
+2015-01-27,grassroots,Ecnonomy,0.15384615384615385
+2015-01-27,grassroots,Education,0.38461538461538464
+2015-01-27,political figures,Sports,0.0
+2015-01-27,political figures,Tec,0.125
+2015-01-27,political figures,Ecnonomy,0.5
+2015-01-27,political figures,Education,0.375
+2015-01-28,media,Sports,0.16666666666666666
+2015-01-28,media,Tec,0.25
+2015-01-28,media,Ecnonomy,0.08333333333333333
+2015-01-28,media,Education,0.5
+2015-01-28,grassroots,Sports,0.38461538461538464
+2015-01-28,grassroots,Tec,0.23076923076923078
+2015-01-28,grassroots,Ecnonomy,0.15384615384615385
+2015-01-28,grassroots,Education,0.23076923076923078
+2015-01-28,political figures,Sports,0.2
+2015-01-28,political figures,Tec,0.0
+2015-01-28,political figures,Ecnonomy,0.6
+2015-01-28,political figures,Education,0.2
+2015-01-29,media,Sports,0.0
+2015-01-29,media,Tec,0.36363636363636365
+2015-01-29,media,Ecnonomy,0.2727272727272727
+2015-01-29,media,Education,0.36363636363636365
+2015-01-29,grassroots,Sports,0.07692307692307693
+2015-01-29,grassroots,Tec,0.15384615384615385
+2015-01-29,grassroots,Ecnonomy,0.38461538461538464
+2015-01-29,grassroots,Education,0.38461538461538464
+2015-01-29,political figures,Sports,0.42857142857142855
+2015-01-29,political figures,Tec,0.2857142857142857
+2015-01-29,political figures,Ecnonomy,0.2857142857142857
+2015-01-29,political figures,Education,0.0
+2015-01-30,media,Sports,0.36363636363636365
+2015-01-30,media,Tec,0.18181818181818182
+2015-01-30,media,Ecnonomy,0.45454545454545453
+2015-01-30,media,Education,0.0
+2015-01-30,grassroots,Sports,0.125
+2015-01-30,grassroots,Tec,0.125
+2015-01-30,grassroots,Ecnonomy,0.0
+2015-01-30,grassroots,Education,0.75
+2015-01-30,political figures,Sports,0.29411764705882354
+2015-01-30,political figures,Tec,0.11764705882352941
+2015-01-30,political figures,Ecnonomy,0.35294117647058826
+2015-01-30,political figures,Education,0.23529411764705882
+2015-01-31,media,Sports,0.375
+2015-01-31,media,Tec,0.0
+2015-01-31,media,Ecnonomy,0.375
+2015-01-31,media,Education,0.25
+2015-01-31,grassroots,Sports,0.07692307692307693
+2015-01-31,grassroots,Tec,0.07692307692307693
+2015-01-31,grassroots,Ecnonomy,0.38461538461538464
+2015-01-31,grassroots,Education,0.46153846153846156
+2015-01-31,political figures,Sports,0.42857142857142855
+2015-01-31,political figures,Tec,0.0
+2015-01-31,political figures,Ecnonomy,0.0
+2015-01-31,political figures,Education,0.5714285714285714
+2015-02-01,media,Sports,0.18181818181818182
+2015-02-01,media,Tec,0.36363636363636365
+2015-02-01,media,Ecnonomy,0.18181818181818182
+2015-02-01,media,Education,0.2727272727272727
+2015-02-01,grassroots,Sports,0.5454545454545454
+2015-02-01,grassroots,Tec,0.09090909090909091
+2015-02-01,grassroots,Ecnonomy,0.09090909090909091
+2015-02-01,grassroots,Education,0.2727272727272727
+2015-02-01,political figures,Sports,0.1
+2015-02-01,political figures,Tec,0.3
+2015-02-01,political figures,Ecnonomy,0.4
+2015-02-01,political figures,Education,0.2
+2015-02-02,media,Sports,0.2777777777777778
+2015-02-02,media,Tec,0.2777777777777778
+2015-02-02,media,Ecnonomy,0.2222222222222222
+2015-02-02,media,Education,0.2222222222222222
+2015-02-02,grassroots,Sports,0.07692307692307693
+2015-02-02,grassroots,Tec,0.38461538461538464
+2015-02-02,grassroots,Ecnonomy,0.23076923076923078
+2015-02-02,grassroots,Education,0.3076923076923077
+2015-02-02,political figures,Sports,0.2631578947368421
+2015-02-02,political figures,Tec,0.2631578947368421
+2015-02-02,political figures,Ecnonomy,0.2631578947368421
+2015-02-02,political figures,Education,0.21052631578947367
+2015-02-03,media,Sports,0.2631578947368421
+2015-02-03,media,Tec,0.3157894736842105
+2015-02-03,media,Ecnonomy,0.3157894736842105
+2015-02-03,media,Education,0.10526315789473684
+2015-02-03,grassroots,Sports,0.46153846153846156
+2015-02-03,grassroots,Tec,0.23076923076923078
+2015-02-03,grassroots,Ecnonomy,0.3076923076923077
+2015-02-03,grassroots,Education,0.0
+2015-02-03,political figures,Sports,0.5
+2015-02-03,political figures,Tec,0.16666666666666666
+2015-02-03,political figures,Ecnonomy,0.16666666666666666
+2015-02-03,political figures,Education,0.16666666666666666
+2015-02-04,media,Sports,0.18181818181818182
+2015-02-04,media,Tec,0.36363636363636365
+2015-02-04,media,Ecnonomy,0.45454545454545453
+2015-02-04,media,Education,0.0
+2015-02-04,grassroots,Sports,0.3076923076923077
+2015-02-04,grassroots,Tec,0.07692307692307693
+2015-02-04,grassroots,Ecnonomy,0.38461538461538464
+2015-02-04,grassroots,Education,0.23076923076923078
+2015-02-04,political figures,Sports,0.14285714285714285
+2015-02-04,political figures,Tec,0.21428571428571427
+2015-02-04,political figures,Ecnonomy,0.2857142857142857
+2015-02-04,political figures,Education,0.35714285714285715
+2015-02-05,media,Sports,0.15384615384615385
+2015-02-05,media,Tec,0.38461538461538464
+2015-02-05,media,Ecnonomy,0.15384615384615385
+2015-02-05,media,Education,0.3076923076923077
+2015-02-05,grassroots,Sports,0.0
+2015-02-05,grassroots,Tec,0.2
+2015-02-05,grassroots,Ecnonomy,0.4
+2015-02-05,grassroots,Education,0.4
+2015-02-05,political figures,Sports,1.0
+2015-02-05,political figures,Tec,0.0
+2015-02-05,political figures,Ecnonomy,0.0
+2015-02-05,political figures,Education,0.0
+2015-02-06,media,Sports,0.35294117647058826
+2015-02-06,media,Tec,0.11764705882352941
+2015-02-06,media,Ecnonomy,0.29411764705882354
+2015-02-06,media,Education,0.23529411764705882
+2015-02-06,grassroots,Sports,0.4
+2015-02-06,grassroots,Tec,0.2
+2015-02-06,grassroots,Ecnonomy,0.4
+2015-02-06,grassroots,Education,0.0
+2015-02-06,political figures,Sports,0.42857142857142855
+2015-02-06,political figures,Tec,0.35714285714285715
+2015-02-06,political figures,Ecnonomy,0.21428571428571427
+2015-02-06,political figures,Education,0.0
+2015-02-07,media,Sports,0.3333333333333333
+2015-02-07,media,Tec,0.2777777777777778
+2015-02-07,media,Ecnonomy,0.2222222222222222
+2015-02-07,media,Education,0.16666666666666666
+2015-02-07,grassroots,Sports,0.25
+2015-02-07,grassroots,Tec,0.0
+2015-02-07,grassroots,Ecnonomy,0.375
+2015-02-07,grassroots,Education,0.375
+2015-02-07,political figures,Sports,0.2
+2015-02-07,political figures,Tec,0.4
+2015-02-07,political figures,Ecnonomy,0.1
+2015-02-07,political figures,Education,0.3
+2015-02-08,media,Sports,0.4
+2015-02-08,media,Tec,0.26666666666666666
+2015-02-08,media,Ecnonomy,0.13333333333333333
+2015-02-08,media,Education,0.2
+2015-02-08,grassroots,Sports,0.25
+2015-02-08,grassroots,Tec,0.5
+2015-02-08,grassroots,Ecnonomy,0.125
+2015-02-08,grassroots,Education,0.125
+2015-02-08,political figures,Sports,0.15789473684210525
+2015-02-08,political figures,Tec,0.3157894736842105
+2015-02-08,political figures,Ecnonomy,0.3157894736842105
+2015-02-08,political figures,Education,0.21052631578947367
+2015-02-09,media,Sports,0.3157894736842105
+2015-02-09,media,Tec,0.3157894736842105
+2015-02-09,media,Ecnonomy,0.2631578947368421
+2015-02-09,media,Education,0.10526315789473684
+2015-02-09,grassroots,Sports,0.125
+2015-02-09,grassroots,Tec,0.375
+2015-02-09,grassroots,Ecnonomy,0.375
+2015-02-09,grassroots,Education,0.125
+2015-02-09,political figures,Sports,0.75
+2015-02-09,political figures,Tec,0.0
+2015-02-09,political figures,Ecnonomy,0.0
+2015-02-09,political figures,Education,0.25
+2015-02-10,media,Sports,0.0
+2015-02-10,media,Tec,0.6
+2015-02-10,media,Ecnonomy,0.3
+2015-02-10,media,Education,0.1
+2015-02-10,grassroots,Sports,0.0
+2015-02-10,grassroots,Tec,0.6
+2015-02-10,grassroots,Ecnonomy,0.1
+2015-02-10,grassroots,Education,0.3
+2015-02-10,political figures,Sports,0.4166666666666667
+2015-02-10,political figures,Tec,0.3333333333333333
+2015-02-10,political figures,Ecnonomy,0.16666666666666666
+2015-02-10,political figures,Education,0.08333333333333333
+2015-02-11,media,Sports,0.21428571428571427
+2015-02-11,media,Tec,0.07142857142857142
+2015-02-11,media,Ecnonomy,0.35714285714285715
+2015-02-11,media,Education,0.35714285714285715
+2015-02-11,grassroots,Sports,0.4166666666666667
+2015-02-11,grassroots,Tec,0.16666666666666666
+2015-02-11,grassroots,Ecnonomy,0.25
+2015-02-11,grassroots,Education,0.16666666666666666
+2015-02-11,political figures,Sports,0.06666666666666667
+2015-02-11,political figures,Tec,0.26666666666666666
+2015-02-11,political figures,Ecnonomy,0.4
+2015-02-11,political figures,Education,0.26666666666666666
+2015-02-12,media,Sports,0.3076923076923077
+2015-02-12,media,Tec,0.07692307692307693
+2015-02-12,media,Ecnonomy,0.23076923076923078
+2015-02-12,media,Education,0.38461538461538464
+2015-02-12,grassroots,Sports,0.16666666666666666
+2015-02-12,grassroots,Tec,0.3333333333333333
+2015-02-12,grassroots,Ecnonomy,0.16666666666666666
+2015-02-12,grassroots,Education,0.3333333333333333
+2015-02-12,political figures,Sports,0.3333333333333333
+2015-02-12,political figures,Tec,0.3333333333333333
+2015-02-12,political figures,Ecnonomy,0.0
+2015-02-12,political figures,Education,0.3333333333333333
+2015-02-13,media,Sports,0.17647058823529413
+2015-02-13,media,Tec,0.35294117647058826
+2015-02-13,media,Ecnonomy,0.35294117647058826
+2015-02-13,media,Education,0.11764705882352941
+2015-02-13,grassroots,Sports,0.5555555555555556
+2015-02-13,grassroots,Tec,0.3333333333333333
+2015-02-13,grassroots,Ecnonomy,0.1111111111111111
+2015-02-13,grassroots,Education,0.0
+2015-02-13,political figures,Sports,0.0
+2015-02-13,political figures,Tec,0.5454545454545454
+2015-02-13,political figures,Ecnonomy,0.09090909090909091
+2015-02-13,political figures,Education,0.36363636363636365
+2015-02-14,media,Sports,0.4166666666666667
+2015-02-14,media,Tec,0.0
+2015-02-14,media,Ecnonomy,0.25
+2015-02-14,media,Education,0.3333333333333333
+2015-02-14,grassroots,Sports,0.1111111111111111
+2015-02-14,grassroots,Tec,0.3333333333333333
+2015-02-14,grassroots,Ecnonomy,0.0
+2015-02-14,grassroots,Education,0.5555555555555556
+2015-02-14,political figures,Sports,0.125
+2015-02-14,political figures,Tec,0.3125
+2015-02-14,political figures,Ecnonomy,0.3125
+2015-02-14,political figures,Education,0.25
+2015-02-15,media,Sports,0.5555555555555556
+2015-02-15,media,Tec,0.4444444444444444
+2015-02-15,media,Ecnonomy,0.0
+2015-02-15,media,Education,0.0
+2015-02-15,grassroots,Sports,0.0
+2015-02-15,grassroots,Tec,0.5
+2015-02-15,grassroots,Ecnonomy,0.4
+2015-02-15,grassroots,Education,0.1
+2015-02-15,political figures,Sports,0.0
+2015-02-15,political figures,Tec,0.125
+2015-02-15,political figures,Ecnonomy,0.625
+2015-02-15,political figures,Education,0.25
+2015-02-16,media,Sports,0.25
+2015-02-16,media,Tec,0.625
+2015-02-16,media,Ecnonomy,0.0
+2015-02-16,media,Education,0.125
+2015-02-16,grassroots,Sports,0.125
+2015-02-16,grassroots,Tec,0.25
+2015-02-16,grassroots,Ecnonomy,0.375
+2015-02-16,grassroots,Education,0.25
+2015-02-16,political figures,Sports,0.07692307692307693
+2015-02-16,political figures,Tec,0.46153846153846156
+2015-02-16,political figures,Ecnonomy,0.23076923076923078
+2015-02-16,political figures,Education,0.23076923076923078
+2015-02-17,media,Sports,0.2608695652173913
+2015-02-17,media,Tec,0.2608695652173913
+2015-02-17,media,Ecnonomy,0.2608695652173913
+2015-02-17,media,Education,0.21739130434782608
+2015-02-17,grassroots,Sports,0.0
+2015-02-17,grassroots,Tec,0.2727272727272727
+2015-02-17,grassroots,Ecnonomy,0.5454545454545454
+2015-02-17,grassroots,Education,0.18181818181818182
+2015-02-17,political figures,Sports,0.18181818181818182
+2015-02-17,political figures,Tec,0.2727272727272727
+2015-02-17,political figures,Ecnonomy,0.18181818181818182
+2015-02-17,political figures,Education,0.36363636363636365
+2015-02-18,media,Sports,0.14285714285714285
+2015-02-18,media,Tec,0.35714285714285715
+2015-02-18,media,Ecnonomy,0.14285714285714285
+2015-02-18,media,Education,0.35714285714285715
+2015-02-18,grassroots,Sports,0.35294117647058826
+2015-02-18,grassroots,Tec,0.0
+2015-02-18,grassroots,Ecnonomy,0.29411764705882354
+2015-02-18,grassroots,Education,0.35294117647058826
+2015-02-18,political figures,Sports,0.35714285714285715
+2015-02-18,political figures,Tec,0.0
+2015-02-18,political figures,Ecnonomy,0.42857142857142855
+2015-02-18,political figures,Education,0.21428571428571427
+2015-02-19,media,Sports,0.2
+2015-02-19,media,Tec,0.3
+2015-02-19,media,Ecnonomy,0.5
+2015-02-19,media,Education,0.0
+2015-02-19,grassroots,Sports,0.2222222222222222
+2015-02-19,grassroots,Tec,0.1111111111111111
+2015-02-19,grassroots,Ecnonomy,0.5555555555555556
+2015-02-19,grassroots,Education,0.1111111111111111
+2015-02-19,political figures,Sports,0.16666666666666666
+2015-02-19,political figures,Tec,0.16666666666666666
+2015-02-19,political figures,Ecnonomy,0.16666666666666666
+2015-02-19,political figures,Education,0.5
+2015-02-20,media,Sports,0.35714285714285715
+2015-02-20,media,Tec,0.21428571428571427
+2015-02-20,media,Ecnonomy,0.42857142857142855
+2015-02-20,media,Education,0.0
+2015-02-20,grassroots,Sports,0.0
+2015-02-20,grassroots,Tec,0.3333333333333333
+2015-02-20,grassroots,Ecnonomy,0.16666666666666666
+2015-02-20,grassroots,Education,0.5
+2015-02-20,political figures,Sports,0.2727272727272727
+2015-02-20,political figures,Tec,0.09090909090909091
+2015-02-20,political figures,Ecnonomy,0.36363636363636365
+2015-02-20,political figures,Education,0.2727272727272727
+2015-02-21,media,Sports,0.0
+2015-02-21,media,Tec,0.25
+2015-02-21,media,Ecnonomy,0.25
+2015-02-21,media,Education,0.5
+2015-02-21,grassroots,Sports,0.0
+2015-02-21,grassroots,Tec,0.2222222222222222
+2015-02-21,grassroots,Ecnonomy,0.2222222222222222
+2015-02-21,grassroots,Education,0.5555555555555556
+2015-02-21,political figures,Sports,0.0
+2015-02-21,political figures,Tec,0.8333333333333334
+2015-02-21,political figures,Ecnonomy,0.16666666666666666
+2015-02-21,political figures,Education,0.0
+2015-02-22,media,Sports,0.0
+2015-02-22,media,Tec,0.16666666666666666
+2015-02-22,media,Ecnonomy,0.5
+2015-02-22,media,Education,0.3333333333333333
+2015-02-22,grassroots,Sports,0.375
+2015-02-22,grassroots,Tec,0.0
+2015-02-22,grassroots,Ecnonomy,0.375
+2015-02-22,grassroots,Education,0.25
+2015-02-22,political figures,Sports,0.125
+2015-02-22,political figures,Tec,0.625
+2015-02-22,political figures,Ecnonomy,0.25
+2015-02-22,political figures,Education,0.0
+2015-02-23,media,Sports,0.45454545454545453
+2015-02-23,media,Tec,0.18181818181818182
+2015-02-23,media,Ecnonomy,0.2727272727272727
+2015-02-23,media,Education,0.09090909090909091
+2015-02-23,grassroots,Sports,1.0
+2015-02-23,grassroots,Tec,0.0
+2015-02-23,grassroots,Ecnonomy,0.0
+2015-02-23,grassroots,Education,0.0
+2015-02-23,political figures,Sports,0.23529411764705882
+2015-02-23,political figures,Tec,0.11764705882352941
+2015-02-23,political figures,Ecnonomy,0.29411764705882354
+2015-02-23,political figures,Education,0.35294117647058826
+2015-02-24,media,Sports,0.1875
+2015-02-24,media,Tec,0.375
+2015-02-24,media,Ecnonomy,0.25
+2015-02-24,media,Education,0.1875
+2015-02-24,grassroots,Sports,0.0
+2015-02-24,grassroots,Tec,0.4
+2015-02-24,grassroots,Ecnonomy,0.2
+2015-02-24,grassroots,Education,0.4
+2015-02-24,political figures,Sports,0.2222222222222222
+2015-02-24,political figures,Tec,0.4444444444444444
+2015-02-24,political figures,Ecnonomy,0.1111111111111111
+2015-02-24,political figures,Education,0.2222222222222222
+2015-02-25,media,Sports,0.4
+2015-02-25,media,Tec,0.26666666666666666
+2015-02-25,media,Ecnonomy,0.13333333333333333
+2015-02-25,media,Education,0.2
+2015-02-25,grassroots,Sports,0.16666666666666666
+2015-02-25,grassroots,Tec,0.5
+2015-02-25,grassroots,Ecnonomy,0.0
+2015-02-25,grassroots,Education,0.3333333333333333
+2015-02-25,political figures,Sports,0.14285714285714285
+2015-02-25,political figures,Tec,0.0
+2015-02-25,political figures,Ecnonomy,0.42857142857142855
+2015-02-25,political figures,Education,0.42857142857142855
+2015-02-26,media,Sports,0.0
+2015-02-26,media,Tec,0.5
+2015-02-26,media,Ecnonomy,0.2
+2015-02-26,media,Education,0.3
+2015-02-26,grassroots,Sports,0.5454545454545454
+2015-02-26,grassroots,Tec,0.09090909090909091
+2015-02-26,grassroots,Ecnonomy,0.2727272727272727
+2015-02-26,grassroots,Education,0.09090909090909091
+2015-02-26,political figures,Sports,0.3076923076923077
+2015-02-26,political figures,Tec,0.3076923076923077
+2015-02-26,political figures,Ecnonomy,0.3076923076923077
+2015-02-26,political figures,Education,0.07692307692307693
+2015-02-27,media,Sports,0.0
+2015-02-27,media,Tec,0.0
+2015-02-27,media,Ecnonomy,0.4
+2015-02-27,media,Education,0.6
+2015-02-27,grassroots,Sports,0.3333333333333333
+2015-02-27,grassroots,Tec,0.1111111111111111
+2015-02-27,grassroots,Ecnonomy,0.4444444444444444
+2015-02-27,grassroots,Education,0.1111111111111111
+2015-02-27,political figures,Sports,0.23076923076923078
+2015-02-27,political figures,Tec,0.3076923076923077
+2015-02-27,political figures,Ecnonomy,0.23076923076923078
+2015-02-27,political figures,Education,0.23076923076923078
+2015-02-28,media,Sports,0.35294117647058826
+2015-02-28,media,Tec,0.35294117647058826
+2015-02-28,media,Ecnonomy,0.29411764705882354
+2015-02-28,media,Education,0.0
+2015-02-28,grassroots,Sports,0.2222222222222222
+2015-02-28,grassroots,Tec,0.3333333333333333
+2015-02-28,grassroots,Ecnonomy,0.1111111111111111
+2015-02-28,grassroots,Education,0.3333333333333333
+2015-02-28,political figures,Sports,0.1875
+2015-02-28,political figures,Tec,0.375
+2015-02-28,political figures,Ecnonomy,0.3125
+2015-02-28,political figures,Education,0.125
+2015-03-01,media,Sports,0.4
+2015-03-01,media,Tec,0.4
+2015-03-01,media,Ecnonomy,0.13333333333333333
+2015-03-01,media,Education,0.06666666666666667
+2015-03-01,grassroots,Sports,0.5
+2015-03-01,grassroots,Tec,0.0
+2015-03-01,grassroots,Ecnonomy,0.3
+2015-03-01,grassroots,Education,0.2
+2015-03-01,political figures,Sports,0.0
+2015-03-01,political figures,Tec,0.46153846153846156
+2015-03-01,political figures,Ecnonomy,0.38461538461538464
+2015-03-01,political figures,Education,0.15384615384615385
+2015-03-02,media,Sports,0.16666666666666666
+2015-03-02,media,Tec,0.6666666666666666
+2015-03-02,media,Ecnonomy,0.0
+2015-03-02,media,Education,0.16666666666666666
+2015-03-02,grassroots,Sports,0.07692307692307693
+2015-03-02,grassroots,Tec,0.07692307692307693
+2015-03-02,grassroots,Ecnonomy,0.38461538461538464
+2015-03-02,grassroots,Education,0.46153846153846156
+2015-03-02,political figures,Sports,0.09090909090909091
+2015-03-02,political figures,Tec,0.45454545454545453
+2015-03-02,political figures,Ecnonomy,0.36363636363636365
+2015-03-02,political figures,Education,0.09090909090909091
+2015-03-03,media,Sports,0.375
+2015-03-03,media,Tec,0.3125
+2015-03-03,media,Ecnonomy,0.1875
+2015-03-03,media,Education,0.125
+2015-03-03,grassroots,Sports,0.0
+2015-03-03,grassroots,Tec,0.6666666666666666
+2015-03-03,grassroots,Ecnonomy,0.2222222222222222
+2015-03-03,grassroots,Education,0.1111111111111111
+2015-03-03,political figures,Sports,0.15384615384615385
+2015-03-03,political figures,Tec,0.38461538461538464
+2015-03-03,political figures,Ecnonomy,0.07692307692307693
+2015-03-03,political figures,Education,0.38461538461538464
+2015-03-04,media,Sports,0.0
+2015-03-04,media,Tec,0.4
+2015-03-04,media,Ecnonomy,0.1
+2015-03-04,media,Education,0.5
+2015-03-04,grassroots,Sports,0.4
+2015-03-04,grassroots,Tec,0.26666666666666666
+2015-03-04,grassroots,Ecnonomy,0.0
+2015-03-04,grassroots,Education,0.3333333333333333
+2015-03-04,political figures,Sports,0.3
+2015-03-04,political figures,Tec,0.0
+2015-03-04,political figures,Ecnonomy,0.3
+2015-03-04,political figures,Education,0.4
+2015-03-05,media,Sports,0.25
+2015-03-05,media,Tec,0.3333333333333333
+2015-03-05,media,Ecnonomy,0.08333333333333333
+2015-03-05,media,Education,0.3333333333333333
+2015-03-05,grassroots,Sports,0.14285714285714285
+2015-03-05,grassroots,Tec,0.14285714285714285
+2015-03-05,grassroots,Ecnonomy,0.7142857142857143
+2015-03-05,grassroots,Education,0.0
+2015-03-05,political figures,Sports,0.2222222222222222
+2015-03-05,political figures,Tec,0.2777777777777778
+2015-03-05,political figures,Ecnonomy,0.16666666666666666
+2015-03-05,political figures,Education,0.3333333333333333
+2015-03-06,media,Sports,0.2857142857142857
+2015-03-06,media,Tec,0.19047619047619047
+2015-03-06,media,Ecnonomy,0.2857142857142857
+2015-03-06,media,Education,0.23809523809523808
+2015-03-06,grassroots,Sports,0.25
+2015-03-06,grassroots,Tec,0.125
+2015-03-06,grassroots,Ecnonomy,0.25
+2015-03-06,grassroots,Education,0.375
+2015-03-06,political figures,Sports,0.18181818181818182
+2015-03-06,political figures,Tec,0.45454545454545453
+2015-03-06,political figures,Ecnonomy,0.36363636363636365
+2015-03-06,political figures,Education,0.0
+2015-03-07,media,Sports,0.35294117647058826
+2015-03-07,media,Tec,0.23529411764705882
+2015-03-07,media,Ecnonomy,0.35294117647058826
+2015-03-07,media,Education,0.058823529411764705
+2015-03-07,grassroots,Sports,0.14285714285714285
+2015-03-07,grassroots,Tec,0.2857142857142857
+2015-03-07,grassroots,Ecnonomy,0.14285714285714285
+2015-03-07,grassroots,Education,0.42857142857142855
+2015-03-07,political figures,Sports,0.3125
+2015-03-07,political figures,Tec,0.3125
+2015-03-07,political figures,Ecnonomy,0.1875
+2015-03-07,political figures,Education,0.1875
+2015-03-08,media,Sports,0.125
+2015-03-08,media,Tec,0.0
+2015-03-08,media,Ecnonomy,0.75
+2015-03-08,media,Education,0.125
+2015-03-08,grassroots,Sports,0.15384615384615385
+2015-03-08,grassroots,Tec,0.07692307692307693
+2015-03-08,grassroots,Ecnonomy,0.3076923076923077
+2015-03-08,grassroots,Education,0.46153846153846156
+2015-03-08,political figures,Sports,0.23529411764705882
+2015-03-08,political figures,Tec,0.23529411764705882
+2015-03-08,political figures,Ecnonomy,0.23529411764705882
+2015-03-08,political figures,Education,0.29411764705882354
+2015-03-09,media,Sports,0.14285714285714285
+2015-03-09,media,Tec,0.7142857142857143
+2015-03-09,media,Ecnonomy,0.14285714285714285
+2015-03-09,media,Education,0.0
+2015-03-09,grassroots,Sports,0.3076923076923077
+2015-03-09,grassroots,Tec,0.23076923076923078
+2015-03-09,grassroots,Ecnonomy,0.0
+2015-03-09,grassroots,Education,0.46153846153846156
+2015-03-09,political figures,Sports,0.25
+2015-03-09,political figures,Tec,0.3333333333333333
+2015-03-09,political figures,Ecnonomy,0.3333333333333333
+2015-03-09,political figures,Education,0.08333333333333333
+2015-03-10,media,Sports,0.0
+2015-03-10,media,Tec,0.3076923076923077
+2015-03-10,media,Ecnonomy,0.46153846153846156
+2015-03-10,media,Education,0.23076923076923078
+2015-03-10,grassroots,Sports,0.2
+2015-03-10,grassroots,Tec,0.0
+2015-03-10,grassroots,Ecnonomy,0.4
+2015-03-10,grassroots,Education,0.4
+2015-03-10,political figures,Sports,0.25
+2015-03-10,political figures,Tec,0.0
+2015-03-10,political figures,Ecnonomy,0.3333333333333333
+2015-03-10,political figures,Education,0.4166666666666667
+2015-03-11,media,Sports,0.375
+2015-03-11,media,Tec,0.0
+2015-03-11,media,Ecnonomy,0.375
+2015-03-11,media,Education,0.25
+2015-03-11,grassroots,Sports,0.0
+2015-03-11,grassroots,Tec,0.3333333333333333
+2015-03-11,grassroots,Ecnonomy,0.0
+2015-03-11,grassroots,Education,0.6666666666666666
+2015-03-11,political figures,Sports,0.06666666666666667
+2015-03-11,political figures,Tec,0.26666666666666666
+2015-03-11,political figures,Ecnonomy,0.26666666666666666
+2015-03-11,political figures,Education,0.4
+2015-03-12,media,Sports,0.08333333333333333
+2015-03-12,media,Tec,0.25
+2015-03-12,media,Ecnonomy,0.25
+2015-03-12,media,Education,0.4166666666666667
+2015-03-12,grassroots,Sports,0.0
+2015-03-12,grassroots,Tec,0.6666666666666666
+2015-03-12,grassroots,Ecnonomy,0.0
+2015-03-12,grassroots,Education,0.3333333333333333
+2015-03-12,political figures,Sports,0.3076923076923077
+2015-03-12,political figures,Tec,0.46153846153846156
+2015-03-12,political figures,Ecnonomy,0.0
+2015-03-12,political figures,Education,0.23076923076923078
+2015-03-13,media,Sports,0.35714285714285715
+2015-03-13,media,Tec,0.2857142857142857
+2015-03-13,media,Ecnonomy,0.21428571428571427
+2015-03-13,media,Education,0.14285714285714285
+2015-03-13,grassroots,Sports,0.0
+2015-03-13,grassroots,Tec,0.2222222222222222
+2015-03-13,grassroots,Ecnonomy,0.5555555555555556
+2015-03-13,grassroots,Education,0.2222222222222222
+2015-03-13,political figures,Sports,0.25
+2015-03-13,political figures,Tec,0.3125
+2015-03-13,political figures,Ecnonomy,0.1875
+2015-03-13,political figures,Education,0.25
+2015-03-14,media,Sports,0.0
+2015-03-14,media,Tec,0.42857142857142855
+2015-03-14,media,Ecnonomy,0.35714285714285715
+2015-03-14,media,Education,0.21428571428571427
+2015-03-14,grassroots,Sports,0.14285714285714285
+2015-03-14,grassroots,Tec,0.35714285714285715
+2015-03-14,grassroots,Ecnonomy,0.35714285714285715
+2015-03-14,grassroots,Education,0.14285714285714285
+2015-03-14,political figures,Sports,0.35294117647058826
+2015-03-14,political figures,Tec,0.0
+2015-03-14,political figures,Ecnonomy,0.29411764705882354
+2015-03-14,political figures,Education,0.35294117647058826
+2015-03-15,media,Sports,0.5
+2015-03-15,media,Tec,0.4166666666666667
+2015-03-15,media,Ecnonomy,0.08333333333333333
+2015-03-15,media,Education,0.0
+2015-03-15,grassroots,Sports,0.1111111111111111
+2015-03-15,grassroots,Tec,0.2777777777777778
+2015-03-15,grassroots,Ecnonomy,0.2777777777777778
+2015-03-15,grassroots,Education,0.3333333333333333
+2015-03-15,political figures,Sports,0.17647058823529413
+2015-03-15,political figures,Tec,0.23529411764705882
+2015-03-15,political figures,Ecnonomy,0.23529411764705882
+2015-03-15,political figures,Education,0.35294117647058826
+2015-03-16,media,Sports,0.25
+2015-03-16,media,Tec,0.25
+2015-03-16,media,Ecnonomy,0.0
+2015-03-16,media,Education,0.5
+2015-03-16,grassroots,Sports,0.0
+2015-03-16,grassroots,Tec,0.23076923076923078
+2015-03-16,grassroots,Ecnonomy,0.38461538461538464
+2015-03-16,grassroots,Education,0.38461538461538464
+2015-03-16,political figures,Sports,0.3076923076923077
+2015-03-16,political figures,Tec,0.23076923076923078
+2015-03-16,political figures,Ecnonomy,0.46153846153846156
+2015-03-16,political figures,Education,0.0
+2015-03-17,media,Sports,0.3
+2015-03-17,media,Tec,0.1
+2015-03-17,media,Ecnonomy,0.2
+2015-03-17,media,Education,0.4
+2015-03-17,grassroots,Sports,0.0
+2015-03-17,grassroots,Tec,0.1
+2015-03-17,grassroots,Ecnonomy,0.3
+2015-03-17,grassroots,Education,0.6
+2015-03-17,political figures,Sports,0.1875
+2015-03-17,political figures,Tec,0.375
+2015-03-17,political figures,Ecnonomy,0.125
+2015-03-17,political figures,Education,0.3125
+2015-03-18,media,Sports,0.21428571428571427
+2015-03-18,media,Tec,0.0
+2015-03-18,media,Ecnonomy,0.42857142857142855
+2015-03-18,media,Education,0.35714285714285715
+2015-03-18,grassroots,Sports,0.2631578947368421
+2015-03-18,grassroots,Tec,0.3157894736842105
+2015-03-18,grassroots,Ecnonomy,0.15789473684210525
+2015-03-18,grassroots,Education,0.2631578947368421
+2015-03-18,political figures,Sports,0.3
+2015-03-18,political figures,Tec,0.5
+2015-03-18,political figures,Ecnonomy,0.2
+2015-03-18,political figures,Education,0.0
+2015-03-19,media,Sports,0.10526315789473684
+2015-03-19,media,Tec,0.3157894736842105
+2015-03-19,media,Ecnonomy,0.3157894736842105
+2015-03-19,media,Education,0.2631578947368421
+2015-03-19,grassroots,Sports,0.11764705882352941
+2015-03-19,grassroots,Tec,0.29411764705882354
+2015-03-19,grassroots,Ecnonomy,0.29411764705882354
+2015-03-19,grassroots,Education,0.29411764705882354
+2015-03-19,political figures,Sports,0.5
+2015-03-19,political figures,Tec,0.0
+2015-03-19,political figures,Ecnonomy,0.3
+2015-03-19,political figures,Education,0.2
+2015-03-20,media,Sports,0.3076923076923077
+2015-03-20,media,Tec,0.15384615384615385
+2015-03-20,media,Ecnonomy,0.38461538461538464
+2015-03-20,media,Education,0.15384615384615385
+2015-03-20,grassroots,Sports,0.14285714285714285
+2015-03-20,grassroots,Tec,0.21428571428571427
+2015-03-20,grassroots,Ecnonomy,0.21428571428571427
+2015-03-20,grassroots,Education,0.42857142857142855
+2015-03-20,political figures,Sports,0.11764705882352941
+2015-03-20,political figures,Tec,0.17647058823529413
+2015-03-20,political figures,Ecnonomy,0.35294117647058826
+2015-03-20,political figures,Education,0.35294117647058826
+2015-03-21,media,Sports,0.0
+2015-03-21,media,Tec,0.14285714285714285
+2015-03-21,media,Ecnonomy,0.42857142857142855
+2015-03-21,media,Education,0.42857142857142855
+2015-03-21,grassroots,Sports,0.35714285714285715
+2015-03-21,grassroots,Tec,0.21428571428571427
+2015-03-21,grassroots,Ecnonomy,0.21428571428571427
+2015-03-21,grassroots,Education,0.21428571428571427
+2015-03-21,political figures,Sports,0.3076923076923077
+2015-03-21,political figures,Tec,0.23076923076923078
+2015-03-21,political figures,Ecnonomy,0.3076923076923077
+2015-03-21,political figures,Education,0.15384615384615385
+2015-03-22,media,Sports,0.0
+2015-03-22,media,Tec,0.08333333333333333
+2015-03-22,media,Ecnonomy,0.5
+2015-03-22,media,Education,0.4166666666666667
+2015-03-22,grassroots,Sports,0.4
+2015-03-22,grassroots,Tec,0.0
+2015-03-22,grassroots,Ecnonomy,0.6
+2015-03-22,grassroots,Education,0.0
+2015-03-22,political figures,Sports,0.17647058823529413
+2015-03-22,political figures,Tec,0.35294117647058826
+2015-03-22,political figures,Ecnonomy,0.17647058823529413
+2015-03-22,political figures,Education,0.29411764705882354
+2015-03-23,media,Sports,0.0
+2015-03-23,media,Tec,0.2
+2015-03-23,media,Ecnonomy,0.8
+2015-03-23,media,Education,0.0
+2015-03-23,grassroots,Sports,0.42857142857142855
+2015-03-23,grassroots,Tec,0.5714285714285714
+2015-03-23,grassroots,Ecnonomy,0.0
+2015-03-23,grassroots,Education,0.0
+2015-03-23,political figures,Sports,0.42857142857142855
+2015-03-23,political figures,Tec,0.0
+2015-03-23,political figures,Ecnonomy,0.42857142857142855
+2015-03-23,political figures,Education,0.14285714285714285
+2015-03-24,media,Sports,0.4
+2015-03-24,media,Tec,0.26666666666666666
+2015-03-24,media,Ecnonomy,0.3333333333333333
+2015-03-24,media,Education,0.0
+2015-03-24,grassroots,Sports,0.42857142857142855
+2015-03-24,grassroots,Tec,0.42857142857142855
+2015-03-24,grassroots,Ecnonomy,0.14285714285714285
+2015-03-24,grassroots,Education,0.0
+2015-03-24,political figures,Sports,0.09090909090909091
+2015-03-24,political figures,Tec,0.45454545454545453
+2015-03-24,political figures,Ecnonomy,0.0
+2015-03-24,political figures,Education,0.45454545454545453
+2015-03-25,media,Sports,0.15384615384615385
+2015-03-25,media,Tec,0.23076923076923078
+2015-03-25,media,Ecnonomy,0.23076923076923078
+2015-03-25,media,Education,0.38461538461538464
+2015-03-25,grassroots,Sports,0.07142857142857142
+2015-03-25,grassroots,Tec,0.14285714285714285
+2015-03-25,grassroots,Ecnonomy,0.35714285714285715
+2015-03-25,grassroots,Education,0.42857142857142855
+2015-03-25,political figures,Sports,0.07142857142857142
+2015-03-25,political figures,Tec,0.2857142857142857
+2015-03-25,political figures,Ecnonomy,0.2857142857142857
+2015-03-25,political figures,Education,0.35714285714285715
+2015-03-26,media,Sports,0.4444444444444444
+2015-03-26,media,Tec,0.3333333333333333
+2015-03-26,media,Ecnonomy,0.1111111111111111
+2015-03-26,media,Education,0.1111111111111111
+2015-03-26,grassroots,Sports,0.35714285714285715
+2015-03-26,grassroots,Tec,0.35714285714285715
+2015-03-26,grassroots,Ecnonomy,0.07142857142857142
+2015-03-26,grassroots,Education,0.21428571428571427
+2015-03-26,political figures,Sports,0.2857142857142857
+2015-03-26,political figures,Tec,0.0
+2015-03-26,political figures,Ecnonomy,0.42857142857142855
+2015-03-26,political figures,Education,0.2857142857142857
+2015-03-27,media,Sports,0.23076923076923078
+2015-03-27,media,Tec,0.07692307692307693
+2015-03-27,media,Ecnonomy,0.38461538461538464
+2015-03-27,media,Education,0.3076923076923077
+2015-03-27,grassroots,Sports,0.29411764705882354
+2015-03-27,grassroots,Tec,0.17647058823529413
+2015-03-27,grassroots,Ecnonomy,0.29411764705882354
+2015-03-27,grassroots,Education,0.23529411764705882
+2015-03-27,political figures,Sports,0.05555555555555555
+2015-03-27,political figures,Tec,0.3333333333333333
+2015-03-27,political figures,Ecnonomy,0.2777777777777778
+2015-03-27,political figures,Education,0.3333333333333333
+2015-03-28,media,Sports,0.08333333333333333
+2015-03-28,media,Tec,0.3333333333333333
+2015-03-28,media,Ecnonomy,0.3333333333333333
+2015-03-28,media,Education,0.25
+2015-03-28,grassroots,Sports,0.2777777777777778
+2015-03-28,grassroots,Tec,0.16666666666666666
+2015-03-28,grassroots,Ecnonomy,0.3333333333333333
+2015-03-28,grassroots,Education,0.2222222222222222
+2015-03-28,political figures,Sports,0.0
+2015-03-28,political figures,Tec,0.5
+2015-03-28,political figures,Ecnonomy,0.125
+2015-03-28,political figures,Education,0.375
+2015-03-29,media,Sports,0.375
+2015-03-29,media,Tec,0.3125
+2015-03-29,media,Ecnonomy,0.0
+2015-03-29,media,Education,0.3125
+2015-03-29,grassroots,Sports,0.25
+2015-03-29,grassroots,Tec,0.625
+2015-03-29,grassroots,Ecnonomy,0.125
+2015-03-29,grassroots,Education,0.0
+2015-03-29,political figures,Sports,0.0
+2015-03-29,political figures,Tec,0.6
+2015-03-29,political figures,Ecnonomy,0.0
+2015-03-29,political figures,Education,0.4
+2015-03-30,media,Sports,0.0
+2015-03-30,media,Tec,0.0
+2015-03-30,media,Ecnonomy,0.5555555555555556
+2015-03-30,media,Education,0.4444444444444444
+2015-03-30,grassroots,Sports,0.3333333333333333
+2015-03-30,grassroots,Tec,0.16666666666666666
+2015-03-30,grassroots,Ecnonomy,0.5
+2015-03-30,grassroots,Education,0.0
+2015-03-30,political figures,Sports,0.45454545454545453
+2015-03-30,political figures,Tec,0.0
+2015-03-30,political figures,Ecnonomy,0.2727272727272727
+2015-03-30,political figures,Education,0.2727272727272727
+2015-03-31,media,Sports,0.25
+2015-03-31,media,Tec,0.25
+2015-03-31,media,Ecnonomy,0.25
+2015-03-31,media,Education,0.25
+2015-03-31,grassroots,Sports,0.2
+2015-03-31,grassroots,Tec,0.2
+2015-03-31,grassroots,Ecnonomy,0.0
+2015-03-31,grassroots,Education,0.6
+2015-03-31,political figures,Sports,0.2
+2015-03-31,political figures,Tec,0.2
+2015-03-31,political figures,Ecnonomy,0.4
+2015-03-31,political figures,Education,0.2
+2015-04-01,media,Sports,0.25
+2015-04-01,media,Tec,0.3
+2015-04-01,media,Ecnonomy,0.15
+2015-04-01,media,Education,0.3
+2015-04-01,grassroots,Sports,0.3333333333333333
+2015-04-01,grassroots,Tec,0.16666666666666666
+2015-04-01,grassroots,Ecnonomy,0.25
+2015-04-01,grassroots,Education,0.25
+2015-04-01,political figures,Sports,0.07692307692307693
+2015-04-01,political figures,Tec,0.46153846153846156
+2015-04-01,political figures,Ecnonomy,0.0
+2015-04-01,political figures,Education,0.46153846153846156
+2015-04-02,media,Sports,0.0
+2015-04-02,media,Tec,0.18181818181818182
+2015-04-02,media,Ecnonomy,0.36363636363636365
+2015-04-02,media,Education,0.45454545454545453
+2015-04-02,grassroots,Sports,0.5
+2015-04-02,grassroots,Tec,0.25
+2015-04-02,grassroots,Ecnonomy,0.125
+2015-04-02,grassroots,Education,0.125
+2015-04-02,political figures,Sports,0.25
+2015-04-02,political figures,Tec,0.25
+2015-04-02,political figures,Ecnonomy,0.16666666666666666
+2015-04-02,political figures,Education,0.3333333333333333
+2015-04-03,media,Sports,0.4166666666666667
+2015-04-03,media,Tec,0.0
+2015-04-03,media,Ecnonomy,0.08333333333333333
+2015-04-03,media,Education,0.5
+2015-04-03,grassroots,Sports,0.16666666666666666
+2015-04-03,grassroots,Tec,0.2777777777777778
+2015-04-03,grassroots,Ecnonomy,0.3333333333333333
+2015-04-03,grassroots,Education,0.2222222222222222
+2015-04-03,political figures,Sports,0.3333333333333333
+2015-04-03,political figures,Tec,0.0
+2015-04-03,political figures,Ecnonomy,0.4166666666666667
+2015-04-03,political figures,Education,0.25
+2015-04-04,media,Sports,0.5
+2015-04-04,media,Tec,0.2
+2015-04-04,media,Ecnonomy,0.0
+2015-04-04,media,Education,0.3
+2015-04-04,grassroots,Sports,0.0
+2015-04-04,grassroots,Tec,0.5
+2015-04-04,grassroots,Ecnonomy,0.4
+2015-04-04,grassroots,Education,0.1
+2015-04-04,political figures,Sports,0.2
+2015-04-04,political figures,Tec,0.6
+2015-04-04,political figures,Ecnonomy,0.1
+2015-04-04,political figures,Education,0.1
+2015-04-05,media,Sports,0.35714285714285715
+2015-04-05,media,Tec,0.42857142857142855
+2015-04-05,media,Ecnonomy,0.0
+2015-04-05,media,Education,0.21428571428571427
+2015-04-05,grassroots,Sports,0.0
+2015-04-05,grassroots,Tec,0.07692307692307693
+2015-04-05,grassroots,Ecnonomy,0.46153846153846156
+2015-04-05,grassroots,Education,0.46153846153846156
+2015-04-05,political figures,Sports,0.26666666666666666
+2015-04-05,political figures,Tec,0.0
+2015-04-05,political figures,Ecnonomy,0.3333333333333333
+2015-04-05,political figures,Education,0.4
+2015-04-06,media,Sports,0.09090909090909091
+2015-04-06,media,Tec,0.0
+2015-04-06,media,Ecnonomy,0.45454545454545453
+2015-04-06,media,Education,0.45454545454545453
+2015-04-06,grassroots,Sports,0.5
+2015-04-06,grassroots,Tec,0.0
+2015-04-06,grassroots,Ecnonomy,0.0
+2015-04-06,grassroots,Education,0.5
+2015-04-06,political figures,Sports,0.2777777777777778
+2015-04-06,political figures,Tec,0.3333333333333333
+2015-04-06,political figures,Ecnonomy,0.2222222222222222
+2015-04-06,political figures,Education,0.16666666666666666
+2015-04-07,media,Sports,0.0
+2015-04-07,media,Tec,0.1111111111111111
+2015-04-07,media,Ecnonomy,0.4444444444444444
+2015-04-07,media,Education,0.4444444444444444
+2015-04-07,grassroots,Sports,0.2
+2015-04-07,grassroots,Tec,0.2
+2015-04-07,grassroots,Ecnonomy,0.1
+2015-04-07,grassroots,Education,0.5
+2015-04-07,political figures,Sports,0.2727272727272727
+2015-04-07,political figures,Tec,0.18181818181818182
+2015-04-07,political figures,Ecnonomy,0.0
+2015-04-07,political figures,Education,0.5454545454545454
+2015-04-08,media,Sports,0.4
+2015-04-08,media,Tec,0.0
+2015-04-08,media,Ecnonomy,0.2
+2015-04-08,media,Education,0.4
+2015-04-08,grassroots,Sports,0.2857142857142857
+2015-04-08,grassroots,Tec,0.23809523809523808
+2015-04-08,grassroots,Ecnonomy,0.23809523809523808
+2015-04-08,grassroots,Education,0.23809523809523808
+2015-04-08,political figures,Sports,0.0
+2015-04-08,political figures,Tec,0.42857142857142855
+2015-04-08,political figures,Ecnonomy,0.2857142857142857
+2015-04-08,political figures,Education,0.2857142857142857
+2015-04-09,media,Sports,0.3333333333333333
+2015-04-09,media,Tec,0.0
+2015-04-09,media,Ecnonomy,0.3333333333333333
+2015-04-09,media,Education,0.3333333333333333
+2015-04-09,grassroots,Sports,0.3333333333333333
+2015-04-09,grassroots,Tec,0.0
+2015-04-09,grassroots,Ecnonomy,0.4
+2015-04-09,grassroots,Education,0.26666666666666666
+2015-04-09,political figures,Sports,0.4
+2015-04-09,political figures,Tec,0.3333333333333333
+2015-04-09,political figures,Ecnonomy,0.2
+2015-04-09,political figures,Education,0.06666666666666667
+2015-04-10,media,Sports,0.0
+2015-04-10,media,Tec,0.0
+2015-04-10,media,Ecnonomy,1.0
+2015-04-10,media,Education,0.0
+2015-04-10,grassroots,Sports,0.125
+2015-04-10,grassroots,Tec,0.25
+2015-04-10,grassroots,Ecnonomy,0.25
+2015-04-10,grassroots,Education,0.375
+2015-04-10,political figures,Sports,0.07692307692307693
+2015-04-10,political figures,Tec,0.38461538461538464
+2015-04-10,political figures,Ecnonomy,0.46153846153846156
+2015-04-10,political figures,Education,0.07692307692307693

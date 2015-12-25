@@ -1,0 +1,113 @@
+@(title: String = "Home")
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>@title</title>
+    <link href="http://fonts.useso.com/css?family=Raleway" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="@routes.Assets.versioned("stylesheets/twitter.css")">
+    <link rel="shortcut icon" type="image/png" href="@routes.Assets.versioned("images/favicon.png")">
+    <link rel="stylesheet" href="http://cdn.amazeui.org/amazeui/2.5.0/css/amazeui.min.css">
+    <style>
+
+    </style>
+</head>
+<body>
+<div class="bigHeader">
+    <div class="am-g">
+        <div class="am-u-lg-12" id="headerSVG">
+            <h1 class="bigHeader-title">
+                Visual Analysis of Topic Competition on Social Media
+            </h1>
+        </div>
+    </div>
+</div>
+
+<div class="detail">
+    <div class="am-g am-container">
+        <div class="am-u-lg-12">
+            <h2 class="detail-h2">Twitter More, Find More</h2>
+            <div id="word-div">
+                <p>All dataset is about <span class="numberSpan" id="allCount">1,500,000</span>
+                (from <span class="numberSpan">2015-01-01</span> to <span class="numberSpan">2015-04-10</span>)
+                </p>
+                <span class="am-badge am-badge-warning am-radius">Ecnonomy</span>
+                <span class="am-badge am-badge-success am-radius">Education</span>
+                <span class="am-badge am-badge-secondary am-radius">Sports</span>
+                <span class="am-badge am-badge-danger am-radius">Tec</span>
+            </div>
+            <div class="am-g">
+                <div class="am-u-lg-9 am-u-md-6 am-u-sm-12 detail-mb" id="twitterRiverSVG">
+
+                </div>
+
+                <div class="am-u-lg-3 am-u-md-6 am-u-sm-12 detail-mb">
+                    <div class="am-g">
+                        <div class="am-u-md-12 am-u-sm-centered">
+                            <form class="am-form">
+                                <fieldset class="am-form-set">
+                                    <div class="am-input-group am-datepicker-date" data-am-datepicker="{format: 'yyyy-mm-dd'}">
+                                        <input type="text" id="startDateInput" class="am-form-field" placeholder="Start Date" readonly>
+  <span class="am-input-group-btn am-datepicker-add-on">
+    <button class="am-btn am-btn-default" type="button"><span class="am-icon-calendar"></span> </button>
+  </span>
+                                    </div>
+                                    <div class="am-input-group am-datepicker-date" data-am-datepicker="{format: 'yyyy-mm-dd'}">
+                                        <input type="text" id="endDateInput" class="am-form-field" placeholder="End Date" readonly>
+  <span class="am-input-group-btn am-datepicker-add-on">
+    <button class="am-btn am-btn-default" type="button"><span class="am-icon-calendar"></span> </button>
+  </span>
+                                    </div>
+                                </fieldset>
+                                <button type="button" class="am-btn am-btn-primary am-btn-block" id="freshRiver">
+                                    <i class="am-icon-twitter"></i>
+                                    Refresh
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+
+                    <div class="twitterContent">
+                        <div data-am-widget="list_news" class="am-list-news am-list-news-default" >
+                            <div class="am-list-news-bd">
+                                <ul class="am-list" id="twitterList">
+                                    <li class="am-g">
+                                        <a href="" class="am-list-item-hd ">hello twitter, hello wrold :)</a>
+                                    </li>
+                                    <li class="am-g">
+                                        <a href="" class="am-list-item-hd ">Puti is not a tree, and minor is not a table. It is empty,
+                                        but why PM2.5 is funking high?</a>
+                                    </li>
+                                    <li class="am-g">
+                                        <a href="" class="am-list-item-hd ">Twiiter Visalisation, powered by ZhongpuChen...</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+                    <!--end of twitter content-->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="footer">
+    <p>&copy; 2015  by ZhongpuChen. Thanks to <a href="http://amazeui.org/">AmazeUI</a> </p>
+</footer>
+</body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
+<script src="http://cdn.amazeui.org/amazeui/2.5.0/js/amazeui.min.js"></script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="@routes.Assets.versioned("javascripts/word.cloud.js")"></script>
+<script src="@routes.Assets.versioned("javascripts/twitter-header.js")"></script>
+<script src="@routes.Assets.versioned("javascripts/twitter-main.js")"></script>
+<script src="@routes.Assets.versioned("javascripts/json2.js")"></script>
+<script>
+
+</script>
+</html>

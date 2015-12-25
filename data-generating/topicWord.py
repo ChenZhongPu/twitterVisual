@@ -1,0 +1,61 @@
+sportsWords = ['athletics', 'baseball', 'basketball',
+               'boxing', 'compete', 'competing', 'club',
+               'cycle', 'cyclist', 'diver', 'CBA',
+               'game', 'goal', 'go', 'gym',
+               'halftime', 'hoop',
+               'jogger', 'jump',
+               'lose', 'medal', 'MVP',
+               'NBA', 'Olympics', 'out',
+               'pitch', 'play', 'player', 'pool',
+               'quater', 'race', 'run', 'ride', 'runner',
+               'score', 'shot', 'speed', 'soccer', 'sport', 'swim',
+               'table', 'team', 'tennis', 'throw',
+               'tie', 'volley', 'walk', 'walker', 'win', 'winner', 'World Cup',
+               'Kobe', 'James']
+
+tecWords = ['atom', 'astronomy', 'beaker', 'biology',
+            'cell', 'chemistry', 'data', 'electricity', 'electrochemist', 'element',
+            'energy', 'entomology', 'evolution', 'experiment',
+            'google', 'apple', 'ipad', 'computer', 'kindle', 'kindle2',
+            'facebook', 'twitter', 'api', 'java', 'technology', 'C++',
+            'C', 'Jquery', 'paypal', 'google glass', 'windows10',
+            'Taobao', 'Baidu', 'Alibaba', 'search', 'code', 'programming',
+            'paper', 'space', 'tec',
+            'papers', 'information', 'data', 'applications', 'code']
+
+ecnonomyWords = ['bank', 'company', 'tax', 'money', 'ecnomomy', 'house',
+                 'GDP', 'manager', 'PPP', 'purchasing', 'household',
+                 'economist', 'balance', 'economic', 'fluctuation',
+                 'dollars', '$', 'protectionism',
+                 'balance', 'depression', 'growth',
+                 'living', 'infrastructure',
+                 'stagnation', 'developing', 'scarity', 'money', 'industry',
+                 'machine']
+
+educationWords = ['school', 'student', 'teach', 'teacher',
+                  'lab', 'book', 'blackboard', 'learn', 'study',
+                  'student', 'teacher', 'teacher', 'teacher', 'teacher',
+                  'generation', 'child', 'children', 'kid',
+                  'know', 'Education', 'listen', 'Academia',
+                  'theory', 'degree', 'institution',
+                  'learning', 'education', 'campus',
+                  'classroom', 'class', 'cognitive',
+                  'coaching', 'college', 'practise',
+                  'concept', 'course', 'thinking',
+                  '']
+
+commonWords = ['i', 'I', 'you', 'u', 'like', 'love', 'looooov',
+               'oh', 'god', 'hey', 'see', 'look', 'check',
+               ':)', ':(', 'me', 'give', 'take', 'as', 'a', 'the',
+               'on', 'base', 'or', 'hard', 'have', 'for', 'in',
+               'art', 'with', 'best', 'know', 'two', 'one',
+               'total', 'tv', 'china', 'usa', 'japan', 'to', 'decide',
+               'point', 'say', 'sing', 'song', 'mom', 'dad', 'road',
+               'super', 'market', 'faster', 'that', 'deep',
+               'this', 'three', 'five', '!!', '@', '~~', 'often',
+               'find', 'high', 'show', 'rap', 'use', 'by']
+
+letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n',
+           'o', 'p', 'q', 'r', 's', 't', 'v', 'w', 'x', 'y', 'z',
+           'A', 'B', 'C', 'D', 'F', 'G',
+           'Z', 'H', 'T', 'P']
